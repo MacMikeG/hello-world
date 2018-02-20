@@ -1,3 +1,6 @@
 # hello-world
-This is a commit test.
-W Szczebrzeszynie chrząszcz brzmi w trzcinie- i Szczebrzeszyn z tego słynie.
+In this repo I:
+- Created an open source repository
+- Started and managed a new branch
+- Changed a file and committed those changes to GitHub
+- Opened and merged a Pull Request
